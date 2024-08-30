@@ -1,7 +1,24 @@
 <img src="https://github.com/Danigro12/test_repo/blob/main/info_img_blank.png">
+<br/>
+<br/>
+
+## Heyo! I'm Daniel!
+I'm a scientist in the field of bioinformatics. I'm trying to understand more about the role of exosomal small non coding RNA's on the developing and diagnosis of colorectal cancer.
 <br>
 <br>
-
-*Heyo! I'm Daniel Nigro!*
-
-
+In other words, I use the computer to understand more about cancer.
+<br>
+<br>
+You can find me at these following social medias:
+<br/>
+<br/>
+<a href="https://linkedin.com/in/daniel-nigro" target="_blank"><img align="left" alt="Daniel Nigro | LinkedIn" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://instagram.com/dan_cfn" target="_blank"><img align="left" alt="Daniel Nigro | Instagram" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<br/>
+<br/>
+## My Programming Languages:
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="30px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/> </a>
+<a href="https://www.r-project.org" target="_blank"> <img align="left" alt="R" width="30px" src="https://www.r-project.org/logo/Rlogo.svg"/> </a>
+<a href="https://pt.wikipedia.org/wiki/Bash" target="_blank"> <img align="left" alt="Bash Script" width="30px" src="https://bashlogo.com/img/symbol/svg/monochrome_light.svg"/> </a>
+<a href="https://learn.microsoft.com/pt-br/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank"> <img align="left" alt="VBA" width="30px" src="https://github.com/Danigro12/test_repo/blob/main/file-type-vba.svg"/> </a>
+<br/>
