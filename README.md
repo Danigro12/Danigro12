@@ -10,6 +10,7 @@ In other words, I use the computer to understand more about cancer.
 <br>
 <br>
 You can find me at these following social medias:
+(Only for dark mode users 😉 )
 <br/>
 <br/>
 <a href="https://linkedin.com/in/daniel-nigro" target="_blank"><img align="left" alt="Daniel Nigro | LinkedIn" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
