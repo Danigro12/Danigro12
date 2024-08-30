@@ -1,4 +1,4 @@
-<img src="https://github.com/Danigro12/test_repo/blob/main/backgroun_git.png">
+<img src="https://github.com/Danigro12/test_repo/blob/main/background_git.png">
 <br/>
 <br/>
 
