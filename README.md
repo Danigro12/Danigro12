@@ -20,7 +20,7 @@ You can find me at these following social medias:
 ## My Programming Languages:
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="30px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/> </a>
 <a href="https://www.r-project.org" target="_blank"> <img align="left" alt="R" width="30px" src="https://www.r-project.org/logo/Rlogo.svg"/> </a>
-<a href="https://pt.wikipedia.org/wiki/Bash" target="_blank"> <img align="left" alt="Bash Script" width="30px" src="https://bashlogo.com/img/symbol/svg/monochrome_light.svg"/> </a>
+<a href="https://pt.wikipedia.org/wiki/Bash" target="_blank"> <img align="left" alt="Bash Script" width="60px" src="https://bashlogo.com/img/logo/svg/full_colored_dark.svg"/> </a>
 <a href="https://learn.microsoft.com/pt-br/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank"> <img align="left" alt="VBA" width="30px" src="https://github.com/Danigro12/test_repo/blob/main/file-type-vba.svg"/> </a>
 <br/>
 <br/>
