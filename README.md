@@ -3,7 +3,7 @@
 <br/>
 
 ## Heyo! I'm Daniel!
-I'm a scientist in the field of bioinformatics. I'm trying to understand more about the role of exosomal small non coding RNA's on the developing and diagnosis of colorectal cancer.
+I'm a bioinformatics scientist and data analyst. I'm trying to understand more about the role of exosomal small non coding RNA's on the developing and diagnosis of colorectal cancer.
 <br>
 <br>
 In other words, I use the computer to understand more about cancer.
@@ -23,3 +23,12 @@ You can find me at these following social medias:
 <a href="https://pt.wikipedia.org/wiki/Bash" target="_blank"> <img align="left" alt="Bash Script" width="30px" src="https://bashlogo.com/img/symbol/svg/monochrome_light.svg"/> </a>
 <a href="https://learn.microsoft.com/pt-br/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank"> <img align="left" alt="VBA" width="30px" src="https://github.com/Danigro12/test_repo/blob/main/file-type-vba.svg"/> </a>
 <br/>
+<br/>
+## My tools and softwares:
+<a href="https://jupyter.org/" target="_blank"> <img align="left" alt="jupyter_notebook" width="30px" src="https://github.com/Danigro12/test_repo/blob/main/jupyter-icon.svg"/> </a>
+<a href="https://www.cursor.com/" target="_blank"> <img align="left" alt="photoshop" width="30px" src="https://github.com/Danigro12/test_repo/blob/main/cursor_logo.svg"/> </a>
+<a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank"> <img align="left" alt="power_bi" width="70px" src="https://github.com/Danigro12/test_repo/blob/main/power-bi.svg"/> </a>
+<a href="https://www.bioconductor.org/" target="_blank"> <img align="left" alt="bioconductor" width="80px" src="https://github.com/Danigro12/test_repo/blob/main/bioconductor.svg"/> </a>
+<a href="https://www.biopython.org/" target="_blank"> <img align="left" alt="biopython" width="50px" src="https://biopython.org/assets/images/biopython_logo.svg"/> </a>
+<a href="https://posit.co/products/open-source/rstudio/" target="_blank"> <img align="left" alt="biopython" width="80px" src="https://github.com/Danigro12/test_repo/blob/main/r-studio-1.svg"/> </a>
+<a href="https://www.photopea.com/" target="_blank"> <img align="left" alt="photoshop" width="30px" src="https://github.com/Danigro12/test_repo/blob/main/photopea-1.svg"/> </a>
