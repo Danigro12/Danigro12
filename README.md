@@ -32,7 +32,7 @@ You can find me at these following social medias:
 <a href="https://www.biopython.org/" target="_blank"> <img align="left" alt="biopython" width="50px" src="https://biopython.org/assets/images/biopython_logo.svg"/> </a>
 <a href="https://posit.co/products/open-source/rstudio/" target="_blank"> <img align="left" alt="biopython" width="80px" src="https://github.com/Danigro12/test_repo/blob/main/r-studio-1.svg"/> </a>
 <a href="https://www.photopea.com/" target="_blank"> <img align="left" alt="photoshop" width="30px" src="https://github.com/Danigro12/test_repo/blob/main/photopea-1.svg"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="docker" width="30px" src="https://github.com/Danigro12/test_repo/blob/main/docker-logo.svg"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="docker" width="30px" src="/test_repo/docker-logo.svg"/> </a>
 <br/>
 <br/>
 ## Listening now:
