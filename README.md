@@ -3,7 +3,7 @@
 <br/>
 
 ## Hey! I'm Daniel!
-I'm a bioinformatics scientist and data analyst. Lately, I'm trying to understand more about the role of exosomal small non coding RNA's on the developing and diagnosis of colorectal cancer.
+I'm a bioinformatics scientist and data analyst. Lately, I've been exploring the role of exosomal small non-coding RNAs in the development and diagnosis of colorectal cancer.
 <br>
 <br>
 In other words, I use the computer to understand more about cancer.
@@ -32,7 +32,7 @@ You can find me at these following social medias:
 <a href="https://www.biopython.org/" target="_blank"> <img align="left" alt="biopython" width="50px" src="https://biopython.org/assets/images/biopython_logo.svg"/> </a>
 <a href="https://posit.co/products/open-source/rstudio/" target="_blank"> <img align="left" alt="biopython" width="80px" src="https://github.com/Danigro12/test_repo/blob/main/r-studio-1.svg"/> </a>
 <a href="https://www.photopea.com/" target="_blank"> <img align="left" alt="photoshop" width="30px" src="https://github.com/Danigro12/test_repo/blob/main/photopea-1.svg"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="docker" width="30px" src="https://github.com/Danigro12/test_repo/blob/main/docker-logo.svg"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="docker" width="35px" src="https://github.com/Danigro12/test_repo/blob/main/docker-logo.svg"/> </a>
 <br/>
 <br/>
 ## Listening now:
